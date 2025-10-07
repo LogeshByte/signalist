@@ -1,34 +1,3 @@
-# Signalist - Stock Market Tracker
-
-<div align="center">
-  <br />
-    <img src="public/readme/hero.webp" alt="Signalist Stock Tracker">
-  <br />
-
-  <div>
-    <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logoColor=white&logo=next.js&color=black"/>
-    <img src="https://img.shields.io/badge/-Better Auth-black?style=for-the-badge&logoColor=white&logo=betterauth&color=black"/>
-    <img src="https://img.shields.io/badge/-Shadcn-black?style=for-the-badge&logoColor=white&logo=shadcnui&color=black"/>
-    <img src="https://img.shields.io/badge/-Inngest-black?style=for-the-badge&logoColor=white&logo=inngest&color=black"/><br/>
-    <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=00A35C"/>
-    <img src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=38B2AC"/>
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6"/>
-  </div>
-
-  <h3 align="center">AI-Powered Stock Market Tracking Platform</h3>
-
-   <div align="center">
-     Built by LogeshByte - Advanced stock tracking with real-time alerts and AI insights
-    </div>
-</div>
-
-## 📋 Table of Contents
-
-1. ✨ [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🚀 [Deployment](#deployment)
 
 ## ✨ Introduction
 
